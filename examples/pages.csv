@@ -1,0 +1,5 @@
+url,status_code,title,meta_description,h1,canonical,indexability
+https://example.com/,200,SEO Services and Technical Website Optimization Experts,"Practical technical SEO checks, on-page optimization, indexing guidance, and structured data reviews to help site owners prioritize improvements.",Technical SEO Services,https://example.com/,Indexable
+https://example.com/services,200,SEO Services and Technical Website Optimization Experts,Short description,Our Services,https://example.com/services,Indexable
+https://example.com/old-page,404,,,,,noindex
+https://example.com/blog,200,Blog,Read the blog about SEO tips and useful technical optimization examples for growing websites through consistent and effective organic search practices.,,https://example.com/blog,Indexable
